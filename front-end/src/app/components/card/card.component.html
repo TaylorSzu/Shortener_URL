@@ -1,0 +1,14 @@
+<div class="card" [ngStyle]="{'width': width, 'height': height}">
+    <h3>{{title}}</h3>
+    <p>{{description}}</p>
+
+    <input
+        *ngIf="showinput"
+        type="text"
+        [placeholder]="placeholder"
+        [(ngModel)]="valueInput"
+        (input)="onInputChange()"
+    />
+
+    <button *ngIf="buttonText" (click)="onButtonClick()">{{buttonText}}</button>
+</div>

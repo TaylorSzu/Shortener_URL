@@ -1,0 +1,8 @@
+{
+  "/url": {
+    "target": "https://shortenerurl-8bfw.onrender.com",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug"
+  }
+}
