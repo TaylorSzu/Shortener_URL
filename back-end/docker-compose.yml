@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  app:
+    image: shortener_url_app
+    container_name: shortener_url_app
+    restart: always
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:postgresql://dpg-d2u5kt3uibrs73fc70hg-a.oregon-postgres.render.com:5432/shortener_url_owok
+      SPRING_DATASOURCE_USERNAME: taylor
+      SPRING_DATASOURCE_PASSWORD: wIvo04piXljz6YvTIgxig32SUVpnNMAQ
+    ports:
+      - "8080:8080"

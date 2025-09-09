@@ -1,0 +1,38 @@
+spring:
+  application:
+    name: shortener_url
+  datasource:
+    url: jdbc:postgresql://dpg-d2u5kt3uibrs73fc70hg-a.oregon-postgres.render.com:5432/shortener_url_owok
+    username: taylor
+    password: wIvo04piXljz6YvTIgxig32SUVpnNMAQ
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    open-in-view: false
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        format_sql: true
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+
+  threads:
+    virtual:
+      enabled: true
+
+server:
+  error:
+    include-stacktrace: on-param
+
+logging:
+  level:
+    org.springframework.security: debug
+
+
+  web:
+    cors:
+      allowed-origins: "http://localhost:4200"   # frontend Angular
+      allowed-methods: "GET,POST"
+      allowed-headers: "*"
+      allow-credentials: true
