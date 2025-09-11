@@ -27,7 +27,7 @@ public class ShortenerUrlService {
     }
 
     public UrlDomain findById(Long id){
-        return shortenerUrlRepository.findById(id).orElseThrow(() -> new RuntimeException("url not found"));
+        return shortenerUrlRepository.findById(id).orElseThrow(() -> new UrlNotFoundException("URL not found"));
     }
 
 }

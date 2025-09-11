@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6465f3f-38db-4197-a76d-85803020c477" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/back-end/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/taylorsz/shortenerurl/ShortenerurlApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/taylorsz/shortenerurl/ShortenerurlApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/taylorsz/shortenerurl/api/CorsConfig$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/taylorsz/shortenerurl/api/CorsConfig$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/taylorsz/shortenerurl/api/CorsConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/taylorsz/shortenerurl/api/CorsConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/taylorsz/shortenerurl/api/OriginalUrlDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/taylorsz/shortenerurl/api/OriginalUrlDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/taylorsz/shortenerurl/api/ShortenerUrlController.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/taylorsz/shortenerurl/api/ShortenerUrlController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/taylorsz/shortenerurl/api/ShortenerUrlDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/taylorsz/shortenerurl/api/ShortenerUrlDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/taylorsz/shortenerurl/api/ShortenerUrlMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/taylorsz/shortenerurl/api/ShortenerUrlMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/taylorsz/shortenerurl/api/ShortenerUrlMapperImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/taylorsz/shortenerurl/api/ShortenerUrlMapperImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/taylorsz/shortenerurl/core/Base64.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/taylorsz/shortenerurl/core/Base64.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/taylorsz/shortenerurl/core/ShortenerUrlService.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/taylorsz/shortenerurl/core/ShortenerUrlService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/taylorsz/shortenerurl/core/UrlDomain$UrlDomainBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/taylorsz/shortenerurl/core/UrlDomain$UrlDomainBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/taylorsz/shortenerurl/core/UrlDomain.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/taylorsz/shortenerurl/core/UrlDomain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/taylorsz/shortenerurl/persistence/ShortenerUrlRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/taylorsz/shortenerurl/persistence/ShortenerUrlRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/test-classes/com/taylorsz/shortenerurl/ShortenerurlApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/test-classes/com/taylorsz/shortenerurl/ShortenerurlApplicationTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="32TmA4825DfI0hXY93VqHyRcU5P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6465f3f-38db-4197-a76d-85803020c477" name="Changes" comment="" />
+      <created>1757452791889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757452791889</updated>
+    </task>
+    <servers />
+  </component>
+</project>

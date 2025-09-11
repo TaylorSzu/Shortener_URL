@@ -3,8 +3,11 @@ C:\Users\taylo\Downloads\ShortenerUrl\back-end\src\main\java\com\taylorsz\shorte
 C:\Users\taylo\Downloads\ShortenerUrl\back-end\src\main\java\com\taylorsz\shortenerurl\api\ShortenerUrlController.java
 C:\Users\taylo\Downloads\ShortenerUrl\back-end\src\main\java\com\taylorsz\shortenerurl\api\ShortenerUrlDTO.java
 C:\Users\taylo\Downloads\ShortenerUrl\back-end\src\main\java\com\taylorsz\shortenerurl\api\ShortenerUrlMapper.java
+C:\Users\taylo\Downloads\ShortenerUrl\back-end\src\main\java\com\taylorsz\shortenerurl\core\ApiError.java
 C:\Users\taylo\Downloads\ShortenerUrl\back-end\src\main\java\com\taylorsz\shortenerurl\core\Base64.java
+C:\Users\taylo\Downloads\ShortenerUrl\back-end\src\main\java\com\taylorsz\shortenerurl\core\GlobalErrorHandler.java
 C:\Users\taylo\Downloads\ShortenerUrl\back-end\src\main\java\com\taylorsz\shortenerurl\core\ShortenerUrlService.java
 C:\Users\taylo\Downloads\ShortenerUrl\back-end\src\main\java\com\taylorsz\shortenerurl\core\UrlDomain.java
+C:\Users\taylo\Downloads\ShortenerUrl\back-end\src\main\java\com\taylorsz\shortenerurl\core\UrlNotFoundException.java
 C:\Users\taylo\Downloads\ShortenerUrl\back-end\src\main\java\com\taylorsz\shortenerurl\persistence\ShortenerUrlRepository.java
 C:\Users\taylo\Downloads\ShortenerUrl\back-end\src\main\java\com\taylorsz\shortenerurl\ShortenerurlApplication.java

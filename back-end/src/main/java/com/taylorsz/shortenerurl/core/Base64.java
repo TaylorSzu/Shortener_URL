@@ -14,8 +14,7 @@ public class Base64 {
         for (int i = 0; i < CHAP_MAP.length; i++) {
             INDEX_MAP.put(CHAP_MAP[i], i);
         }
-    }  
-
+    }
 
     public String encode(long number) {
         Stack<Character> stack = new Stack<>();
