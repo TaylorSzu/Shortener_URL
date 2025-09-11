@@ -41,6 +41,7 @@ export class AppComponent {
 
       .subscribe({next: (res) => {
           this.shortUrl = res?.shortenerUrl ?? null;
+          console.log('Resposta da API:', res);
           this.loading = false;
           console.log('URL encurtada:', this.shortUrl);
         },
