@@ -35,7 +35,7 @@ export class AppComponent {
     console.log('Encurtando URL:', this.urlInput);
 
     this.http
-      .post<{ shortenerUrl: string }>('/url', {
+      .post<{ shortenerUrl: string }>('https://shortenerurl-8bfw.onrender.com/url', {
         originalUrl: this.urlInput,
       })
 
