@@ -40,7 +40,7 @@ export class AppComponent {
       })
 
       .subscribe({next: (res) => {
-          this.shortUrl = res.shortenerUrl;
+          this.shortUrl = res?.shortenerUrl ?? null;
           this.loading = false;
           console.log('URL encurtada:', this.shortUrl);
         },
